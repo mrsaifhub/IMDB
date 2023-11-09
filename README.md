@@ -2,7 +2,7 @@
 #### If the python jupiter notebook code file in .ipynb format fails to open here then :
 
   #### Open "https://nbviewer.jupyter.org/"
-  #### Paste the following link to the above webpage's search box , ("https://github.com/mrsaifhub/IMDB/blob/master/IMDB%20dProject%20.ipynb") and you will be good to go to open the code and output of this project .
+  #### Paste the following link to the above webpage's search box , ("https://github.com/mrsaifhub/IMDB/blob/master/IMDB%20dProject.ipynb") and you will be good to go to open the code and output of this project .
   
 # Project-IMDB-database
 
